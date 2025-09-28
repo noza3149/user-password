@@ -1,0 +1,10 @@
+<form action="#">
+    <div>
+        <label for="text-input-username">Username:</label>
+        <input type="text" id="text-input-username" name="username" placeholder="Username">
+    </div>
+    <div>
+        <label for="text-password">Password:</label>
+        <input type="password" id="text-password" name="password" placeholder="Password">
+    </div>
+</form>
